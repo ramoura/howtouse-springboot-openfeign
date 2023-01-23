@@ -1,0 +1,83 @@
+{
+    "quoteSummary": {
+        "result": [
+            {
+                "price": {
+                    "maxAge": 1,
+                    "preMarketChange": {},
+                    "preMarketPrice": {},
+                    "postMarketChange": {},
+                    "postMarketPrice": {},
+                    "regularMarketChangePercent": {
+                        "raw": 0.024124071,
+                        "fmt": "2.41%"
+                    },
+                    "regularMarketChange": {
+                        "raw": 0.42000008,
+                        "fmt": "0.42"
+                    },
+                    "regularMarketTime": 1674248856,
+                    "priceHint": {
+                        "raw": 2,
+                        "fmt": "2",
+                        "longFmt": "2"
+                    },
+                    "regularMarketPrice": {
+                        "raw": 17.83,
+                        "fmt": "17.83"
+                    },
+                    "regularMarketDayHigh": {
+                        "raw": 0.0,
+                        "fmt": "0.00"
+                    },
+                    "regularMarketDayLow": {
+                        "raw": 0.0,
+                        "fmt": "0.00"
+                    },
+                    "regularMarketVolume": {
+                        "raw": 0,
+                        "fmt": null,
+                        "longFmt": "0.00"
+                    },
+                    "averageDailyVolume10Day": {},
+                    "averageDailyVolume3Month": {},
+                    "regularMarketPreviousClose": {
+                        "raw": 17.41,
+                        "fmt": "17.41"
+                    },
+                    "regularMarketSource": "DELAYED",
+                    "regularMarketOpen": {
+                        "raw": 0.0,
+                        "fmt": "0.00"
+                    },
+                    "strikePrice": {},
+                    "openInterest": {},
+                    "exchange": "SAO",
+                    "exchangeName": "São Paulo",
+                    "exchangeDataDelayedBy": 15,
+                    "marketState": "CLOSED",
+                    "quoteType": "EQUITY",
+                    "symbol": "TICKER.NAME",
+                    "underlyingSymbol": null,
+                    "shortName": "SID NACIONALON",
+                    "longName": "Companhia Siderúrgica Nacional",
+                    "currency": "BRL",
+                    "quoteSourceName": "Delayed Quote",
+                    "currencySymbol": "R$",
+                    "fromCurrency": null,
+                    "toCurrency": null,
+                    "lastMarket": null,
+                    "volume24Hr": {},
+                    "volumeAllCurrencies": {},
+                    "circulatingSupply": {},
+                    "marketCap": {
+                        "raw": 24739481600,
+                        "fmt": "24.74B",
+                        "longFmt": "24,739,481,600.00"
+                    }
+                }
+            }
+        ],
+        "error": null
+    }
+}

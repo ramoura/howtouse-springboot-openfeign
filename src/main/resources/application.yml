@@ -1,0 +1,18 @@
+spring:
+  cloud:
+    openfeign:
+      client:
+        config:
+          default:
+            connectTimeout: 50000
+            readTimeout: 50000
+            loggerLevel: full
+            defaultRequestHeaders:
+              Content-Type:
+                - application/json
+          financeYahooIntegration:
+            connectTimeout: 50000
+            readTimeout: 50000
+            logger-level: full
+            url: https://query1.finance.yahoo.com
+
